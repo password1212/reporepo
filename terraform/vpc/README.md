@@ -1,3 +1,8 @@
+## 추가설명
+- VPC 생성
+- Internet Gateway 생성
+
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
